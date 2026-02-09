@@ -45,4 +45,4 @@ alembic revision --autogenerate -m "description"
 alembic upgrade head
 
  Откат на 1 шаг
-alembic downgrade -1
+alembic downgrade -1 
